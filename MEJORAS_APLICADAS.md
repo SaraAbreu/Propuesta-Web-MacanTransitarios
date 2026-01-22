@@ -343,3 +343,32 @@ El sitio web de Macan ahora es **mucho más profesional** con:
 ---
 
 ¿Hay algo más que quieras mejorar? 🚀
+
+## 🧭 Mejoras pendientes (checklist)
+
+Las siguientes mejoras fueron sugeridas en el análisis y todavía no están implementadas en el repositorio. Podemos priorizarlas y crear issues o ramas específicas para cada una.
+
+- [ ] Fotos reales del equipo y bios completas
+- [ ] Reemplazar logos de clientes por versiones oficiales y obtener permisos de uso
+- [ ] Casos de éxito extendidos con descripciones técnicas y galerías visuales
+- [ ] Blog con al menos 5 artículos SEO optimizados
+- [ ] Video explicativo corporativo (2-3 min) + testimonios en video
+- [ ] Landing pages específicas por tipo de cliente (internacional, local, urgencias)
+- [ ] Calculadora de presupuestos interactiva
+- [ ] Integración con CRM y automatización de leads
+- [ ] Chatbot IA para FAQs y agenda de llamadas
+- [ ] Portal de clientes con seguimiento y descargas (dashboard)
+- [ ] Integración de Google Analytics 4 y eventos de conversión refinados
+- [ ] Implementar schema markup (LocalBusiness, Service) y metadatos SEO
+- [ ] Implementar sistema de reseñas: Google Reviews / Trustpilot
+- [ ] Testimonios con foto/nombre/empresa y validación (proveer evidencias)
+- [ ] Certificaciones y badges visibles (ISO, aduanales, Film Commission)
+- [ ] Galería de producciones con filtros y lightbox optimizado
+- [ ] Sistema de A/B testing para CTAs principales
+- [ ] Formularios con validación y envío a backend + webhook a CRM
+- [ ] Soporte multi-idioma (ES / EN) y detección automática de locale
+- [ ] PWA básica para acceso offline y atajos móviles
+- [ ] Integrar feed Instagram y compartir casos en redes
+- [ ] Crear plantillas para lead magnets (checklist, templates)
+
+Siguiente paso recomendado: priorizar estas tareas en 2-3 sprints, crear issues con criterios de aceptación y asignar responsables.

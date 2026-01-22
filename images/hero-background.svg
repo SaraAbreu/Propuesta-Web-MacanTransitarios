@@ -1,0 +1,26 @@
+<svg viewBox="0 0 1200 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo blanco -->
+  <rect width="1200" height="600" fill="#FFFFFF"/>
+  
+  <!-- Decoración esquina superior derecha -->
+  <circle cx="1100" cy="50" r="150" fill="#F5F5F5" opacity="0.5"/>
+  <circle cx="1100" cy="50" r="100" fill="#F5F5F5" opacity="0.3"/>
+  
+  <!-- Decoración esquina inferior izquierda -->
+  <circle cx="50" cy="550" r="150" fill="#E91E8C" opacity="0.05"/>
+  
+  <!-- Línea decorativa -->
+  <line x1="100" y1="300" x2="1100" y2="300" stroke="#E91E8C" stroke-width="2" opacity="0.1"/>
+  
+  <!-- Triángulos decorativos -->
+  <polygon points="150,150 200,200 100,200" fill="#E91E8C" opacity="0.08"/>
+  <polygon points="1050,450 1100,500 1000,500" fill="#E91E8C" opacity="0.08"/>
+  
+  <!-- Texto principal (dummie, será reemplazado en HTML) -->
+  <text x="600" y="250" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#000000" text-anchor="middle">
+    Especialistas en Logística
+  </text>
+  <text x="600" y="310" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#E91E8C" text-anchor="middle">
+    Cinematográfica
+  </text>
+</svg>

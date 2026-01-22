@@ -1,0 +1,16 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Avión -->
+  <g stroke="#E91E8C" stroke-width="2" fill="none">
+    <!-- Fuselaje -->
+    <ellipse cx="50" cy="50" rx="20" ry="35"/>
+    <!-- Alas -->
+    <line x1="30" y1="50" x2="70" y2="50"/>
+    <!-- Cola -->
+    <polygon points="50,80 55,85 45,85" fill="#E91E8C" opacity="0.3"/>
+    <!-- Cabina -->
+    <circle cx="50" cy="30" r="5" fill="#E91E8C" opacity="0.3"/>
+    <!-- Motores -->
+    <circle cx="38" cy="50" r="3" fill="#E91E8C" opacity="0.5"/>
+    <circle cx="62" cy="50" r="3" fill="#E91E8C" opacity="0.5"/>
+  </g>
+</svg>

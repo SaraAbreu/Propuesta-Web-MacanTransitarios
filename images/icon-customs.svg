@@ -1,0 +1,17 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Aduanas/Documentos -->
+  <g stroke="#E91E8C" stroke-width="2" fill="none">
+    <!-- Documento principal -->
+    <rect x="20" y="25" width="45" height="55" rx="2"/>
+    <!-- Líneas de texto -->
+    <line x1="28" y1="35" x2="57" y2="35"/>
+    <line x1="28" y1="42" x2="57" y2="42"/>
+    <line x1="28" y1="49" x2="55" y2="49"/>
+    <line x1="28" y1="56" x2="57" y2="56"/>
+    <line x1="28" y1="63" x2="50" y2="63"/>
+    <!-- Sello/Stamp -->
+    <rect x="55" y="45" width="12" height="12" transform="rotate(25 61 51)" stroke="#E91E8C" stroke-width="1.5" opacity="0.7"/>
+    <!-- Checkmark -->
+    <path d="M 58 62 L 62 66 L 68 58" stroke="#E91E8C" fill="none"/>
+  </g>
+</svg>

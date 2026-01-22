@@ -1,0 +1,18 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Solución Integral/Engranaje -->
+  <g stroke="#E91E8C" stroke-width="2" fill="none">
+    <!-- Engranaje central -->
+    <circle cx="50" cy="50" r="12"/>
+    <polygon points="50,38 54,42 58,38 54,34" fill="#E91E8C" opacity="0.3"/>
+    <polygon points="62,50 58,54 62,58 66,54" fill="#E91E8C" opacity="0.3"/>
+    <polygon points="50,62 54,58 50,62 46,58" fill="#E91E8C" opacity="0.3"/>
+    <polygon points="38,50 42,46 38,42 34,46" fill="#E91E8C" opacity="0.3"/>
+    
+    <!-- Dientes del engranaje -->
+    <circle cx="50" cy="50" r="18"/>
+    <circle cx="50" cy="30" r="4" fill="#E91E8C" opacity="0.5"/>
+    <circle cx="70" cy="50" r="4" fill="#E91E8C" opacity="0.5"/>
+    <circle cx="50" cy="70" r="4" fill="#E91E8C" opacity="0.5"/>
+    <circle cx="30" cy="50" r="4" fill="#E91E8C" opacity="0.5"/>
+  </g>
+</svg>

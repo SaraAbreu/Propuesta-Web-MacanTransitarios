@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 480" width="860" height="480">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#cfcfcf"/><stop offset="1" stop-color="#efefef"/></linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#g)"/>
+  <rect x="20" y="20" width="460" height="440" rx="12" fill="#222" opacity="0.05"/>
+  <text x="520" y="120" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#E91E8C" font-weight="700">2022</text>
+  <text x="520" y="160" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#e91e8c">Largometraje</text>
+  <text x="520" y="210" font-family="Arial, Helvetica, sans-serif" font-size="48" fill="#111" font-weight="800">THE MOTHER</text>
+  <text x="520" y="260" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#888">A TOWN CALLED MALICE</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bote/Ferry -->
+  <g stroke="#E91E8C" stroke-width="2" fill="none">
+    <!-- Casco -->
+    <path d="M 25 55 L 35 80 L 65 80 L 75 55" stroke-linecap="round"/>
+    <!-- Cubierta -->
+    <rect x="25" y="50" width="50" height="8" rx="2"/>
+    <!-- Cabina -->
+    <rect x="35" y="35" width="30" height="15" rx="2"/>
+    <!-- Ventanas -->
+    <circle cx="42" cy="40" r="2" fill="#E91E8C" opacity="0.5"/>
+    <circle cx="50" cy="40" r="2" fill="#E91E8C" opacity="0.5"/>
+    <circle cx="58" cy="40" r="2" fill="#E91E8C" opacity="0.5"/>
+    <!-- Chimenea -->
+    <rect x="48" y="25" width="4" height="10" fill="#E91E8C" opacity="0.3"/>
+  </g>
+</svg>

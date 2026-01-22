@@ -1,0 +1,35 @@
+<svg viewBox="0 0 500 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo gris claro -->
+  <rect width="500" height="300" fill="#F5F5F5"/>
+  
+  <!-- Título de la sección -->
+  <text x="250" y="50" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#000000" text-anchor="middle">Servicios de Transporte</text>
+  
+  <!-- Iconos representativos -->
+  <!-- Camión -->
+  <g transform="translate(80, 130)">
+    <rect x="0" y="30" width="60" height="40" fill="none" stroke="#E91E8C" stroke-width="2" rx="3"/>
+    <circle cx="15" cy="75" r="8" fill="#E91E8C"/>
+    <circle cx="45" cy="75" r="8" fill="#E91E8C"/>
+    <rect x="0" y="0" width="40" height="30" fill="none" stroke="#E91E8C" stroke-width="2"/>
+  </g>
+  
+  <!-- Barco -->
+  <g transform="translate(220, 130)">
+    <polygon points="50,10 90,40 10,40" fill="none" stroke="#E91E8C" stroke-width="2"/>
+    <rect x="20" y="40" width="60" height="30" fill="none" stroke="#E91E8C" stroke-width="2"/>
+    <line x1="50" y1="10" x2="50" y2="0" stroke="#E91E8C" stroke-width="2"/>
+  </g>
+  
+  <!-- Avión -->
+  <g transform="translate(360, 130)">
+    <polygon points="50,30 30,50 70,50" fill="none" stroke="#E91E8C" stroke-width="2"/>
+    <rect x="40" y="45" width="20" height="25" fill="none" stroke="#E91E8C" stroke-width="2"/>
+    <line x1="20" y1="50" x2="80" y2="50" stroke="#E91E8C" stroke-width="2"/>
+  </g>
+  
+  <!-- Textos descriptivos -->
+  <text x="80" y="240" font-family="Arial, sans-serif" font-size="14" fill="#333333" text-anchor="middle">Terrestre</text>
+  <text x="250" y="240" font-family="Arial, sans-serif" font-size="14" fill="#333333" text-anchor="middle">Marítimo</text>
+  <text x="380" y="240" font-family="Arial, sans-serif" font-size="14" fill="#333333" text-anchor="middle">Aéreo</text>
+</svg>

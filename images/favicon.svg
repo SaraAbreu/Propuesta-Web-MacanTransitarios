@@ -1,0 +1,10 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo negro -->
+  <rect width="64" height="64" fill="#000000"/>
+  
+  <!-- Marco fucsia -->
+  <rect x="4" y="4" width="56" height="56" fill="none" stroke="#E91E8C" stroke-width="2" rx="4"/>
+  
+  <!-- Letra M grande -->
+  <text x="32" y="48" font-family="Arial, sans-serif" font-size="40" font-weight="bold" fill="#E91E8C" text-anchor="middle">M</text>
+</svg>

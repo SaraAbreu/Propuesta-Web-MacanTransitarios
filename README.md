@@ -67,5 +67,21 @@ Luego abre: `http://localhost:8000`
 10. Footer
 
 ---
+## 🔎 Análisis y mejoras aplicadas
+
+Hicimos un análisis funcional y visual de la página oficial de Macan (https://macan.es/) y aplicamos mejoras en diseño, contenido y rendimiento que están reflejadas en este repositorio.
+
+Resumen breve:
+- **Análisis**: revisión de la estructura de contenidos, jerarquía de servicios, CTAs, experiencia móvil y confianza (testimonios y clientes).
+- **Mejoras aplicadas**: rediseño visual (paleta magenta/cyan), iconografía en SVG, hero optimizado, secciones nuevas (`Equipo`, `Clientes`), formulario mejorado, favicon, optimizaciones responsive y de accesibilidad, y mejoras SEO leves.
+
+Para ver el detalle completo del análisis y las mejoras implementadas consulta:
+
+- [ANALISIS_Y_MEJORAS.md](ANALISIS_Y_MEJORAS.md)
+- [MEJORAS_APLICADAS.md](MEJORAS_APLICADAS.md)
+
+Si quieres que incorporemos una sección explícita en la `index.html` que enlace a estas notas o un resumen visible en la página, dímelo y lo agrego.
+
+---
 
 **¿Necesitas ayuda?** Cualquier duda sobre el proyecto, pregunta!
